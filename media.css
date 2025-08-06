@@ -1,0 +1,27 @@
+/* @media (min-width :0px) and (max-width:1020px) {
+
+    .logo {
+        display: none;
+    }
+    
+    .address {
+        padding: 16px 0px 0px 16px;
+    }
+
+    .searchBox {
+        flex-basis: 100%;
+        order: 2;
+        margin: 15px 20px 0px 20px;
+    }
+
+    header {
+        border-bottom: none;
+    }
+
+    .headerRight {
+        padding: 0px;
+        display: none;
+    }
+
+
+} */
